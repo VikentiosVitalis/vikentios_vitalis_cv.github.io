@@ -1,6 +1,7 @@
 # Vikentios-Vitalis-CV
 This is my personal CV, you can find all the used code in the assets folder!
 
-The webpage is available [here](https://vikentiosvitalis.github.io/Vikentios-Vitalis-CV.github.io/)
+The webpage is available [here](https://bit.ly/3GQ9fLU)
+<!--[here](https://vikentiosvitalis.github.io/Vikentios-Vitalis-CV.github.io/) -->
 <!-- (bit.ly/3GQ9fLU) -->
 
