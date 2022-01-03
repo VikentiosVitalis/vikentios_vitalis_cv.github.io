@@ -106,7 +106,7 @@ body.scale-cv {
 }
 
 .scale-cv .section {
-  padding: 4.15rem 0 0.8rem;
+  padding: 3.92rem 0 0.8rem;
 }
 
 .scale-cv .section-title {
@@ -485,7 +485,7 @@ img {
 
 /*========== CERTIFICATES ==========*/
 .certificate__title {
-  font-size: var(--h3-font-size);
+  font-size: var(--h4-font-size);
   margin-bottom: var(--mb-2);
   text-align: center;
 }
