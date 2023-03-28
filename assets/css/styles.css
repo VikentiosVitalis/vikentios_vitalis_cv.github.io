@@ -46,6 +46,7 @@
 html {
   scroll-behavior: smooth;
 }
+
 /*========== Variables Dark theme ==========*/
 body.dark-theme {
   --title-color: #f2f2f2;
@@ -106,7 +107,7 @@ body.scale-cv {
 }
 
 .scale-cv .section {
-  padding: 2.25rem 0 0.8rem;
+  padding: 2.93rem 0 0.8rem;
 }
 
 .scale-cv .section-title {
@@ -216,6 +217,7 @@ img {
   max-width: 100%;
   height: auto;
 }
+
 /*========== CLASS CSS ==========*/
 .section {
   padding: 1.5rem 0;
@@ -315,6 +317,7 @@ img {
   font-size: 1.2rem;
   margin-bottom: var(--mb-2);
 }
+
 /* Show menu */
 .show-menu {
   bottom: var(--header-height);
@@ -387,6 +390,10 @@ img {
   color: var(--container-color);
 }
 
+a {
+  color: inherit;
+}
+
 /*========== SOCIAL ==========*/
 .social__container {
   grid-template-columns: max-content;
@@ -407,6 +414,7 @@ img {
   font-size: 1.2rem;
   margin-right: 0.25rem;
 }
+
 /*========== PROFILE ==========*/
 .profile__description {
   text-align: center;
@@ -456,6 +464,7 @@ img {
 .experience__description {
   text-align: center;
 }
+
 /*========== SKILLS AND LANGUAGES ==========*/
 .skills__content,
 .languages__content {
@@ -512,6 +521,7 @@ img {
   color: ver(--text-color-light);
   margin-bottom: 0.25rem;
 }
+
 /* Scroll top */
 .scrolltop {
   position: fixed;
@@ -604,6 +614,7 @@ img {
     grid-template-columns: repeat(1, max-content);
     column-gap: 1.5rem;
   }
+
   /*
   .interests__container{
     grid-template-columns: repeat(5, max-content);
